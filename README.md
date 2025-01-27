@@ -11,8 +11,14 @@ A simple and fun Hangman game built as an Android application using Kotlin. Test
 - Keep track of the highest score.
 
 ## Screenshots
+<img width="176" alt="ss1" src="https://github.com/user-attachments/assets/a8b9e38a-ea19-48d4-9946-007f401cd20c" />
+<img width="171" alt="ss2" src="https://github.com/user-attachments/assets/a21c9a13-7f69-40a9-90d3-a3a03bf852e0" />
+<img width="170" alt="ss3" src="https://github.com/user-attachments/assets/b138109c-c2ab-48de-b6e5-a79b2f800828" />
+<img width="172" alt="ss4" src="https://github.com/user-attachments/assets/a9ca7a08-4093-4c08-b373-e32281845395" />
+<img width="171" alt="ss5" src="https://github.com/user-attachments/assets/1a56bf14-6945-4e60-91f0-171a0e29f9a0" />
+<img width="172" alt="ss6" src="https://github.com/user-attachments/assets/c6978d1f-7c59-4348-8e43-cddff897dc33" />
 
-(Include some screenshots of your app here for better visualization.)
+
 
 ## Installation
 
